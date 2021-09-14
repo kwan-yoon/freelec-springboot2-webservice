@@ -55,4 +55,7 @@ dependencies {
 
     //spring-security-test 관련
     implementation('org.springframework.security:spring-security-test')
+
+    //maraidb 관련
+    implementation('org.mariadb.jdbc:mariadb-java-client')
 }
